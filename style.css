@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{ 
+    background-color: white;
+}
+.Name{
+    color:#cce3de ;
+    font-size: 2rem ;
+    padding: 0 5px;
+}
+
+.navbar{
+    background-color: #2a9d8e;
+}
+
+.container{
+    max-width: 80vw;
+}
+
+.section1{
+    height: 80vh;
+}
+
+.topleft{
+    width: 50%;
+    height:80vh;
+}
+
+.topright{
+    width: 50%;
+    height:80vh;
+}
+.image{
+    border: 2px solid white;
+    /* border-radius: 50%; */
+    color: black;
+}
+
+.iconimage{
+    width: 133px; 
+}
+
+.section2{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.section2 h1{
+    font-size: 2rem;
+}
+
+.box{
+    margin:12px 12px ;
+    min-width: 15vw;
+    border : 2px solid black;
+}
+
+.overflow-hidden{
+    overflow: hidden;
+}
